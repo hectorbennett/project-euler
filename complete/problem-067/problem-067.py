@@ -14,7 +14,7 @@ and 'Save Link/Target As...'), a 15K text file containing a triangle
 with one-hundred rows.
 """
 
-data = open("problem-67-data.txt", "r")
+data = open("problem-067-data.txt", "r")
 triangle = data.read()
 
 def tri2List(tri):
