@@ -7,7 +7,7 @@ A bunch of solutions to problems on projecteuler.net in various languages
 |                 | **Python** | **C++** | **Rust** | **JavaScript** |
 | --------------: | :--------: | :-----: | :------: | :------------: |
 |   **problem 1** |     ✅      |    ✅    |    ✅     |       ✅        |
-|   **problem 2** |     ✅      |         |          |                |
+|   **problem 2** |     ✅      |         |    ✅     |                |
 |   **problem 3** |     ✅      |         |          |                |
 |  **problem 18** |     ✅      |         |          |                |
 |  **problem 23** |     ✅      |         |          |                |
